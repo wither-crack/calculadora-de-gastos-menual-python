@@ -1,2 +1,2 @@
-# calculadora-de-gastos-menual-python
+# calculadora-de-gastos-mensual-python
 simple
